@@ -1,0 +1,18 @@
+.bgWrap {
+  position: fixed;
+  height: 30vh;
+  width: 100vw;
+  overflow: hidden;
+  z-index: -1;
+  border-bottom: var(--color-yellow-300) 2px solid;
+}
+
+.bgText {
+  margin: 4rem auto;
+  /* font-size: 2rem; */
+  /* line-height: 3rem; */
+  text-align: center;
+  /* padding-top: 40vh; */
+  /* text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); */
+  color: white;
+}
